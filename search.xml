@@ -1,9 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>计算机组成原理——第一章</title>
-    <url>/2023/09/26/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
-    <content><![CDATA[]]></content>
+    <title>计算机组成原理—第一章</title>
+    <url>/2023/09/26/%E8%AE%A1%E7%BB%84%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
+    <content><![CDATA[<h2 id="名词术语"><a href="#名词术语" class="headerlink" title="名词术语"></a>名词术语</h2><blockquote>
+<p>个人理解，仅供参考</p>
+</blockquote>
+<ol>
+<li><p>模拟信号和数字信号的区别：模拟信号是连续的，数字信号是离散的</p>
+</li>
+<li><p>信息的数字化表示：用数字代码表示各种信息，用数字信号表示数字代码</p>
+<ul>
+<li><p>数字代码通常指二进制数字代码，用来表示数据、字符、声音、指令、状态等信息</p>
+</li>
+<li><p>常见的数字信号有电平和脉冲</p>
+<ul>
+<li>电平信号在空间上离散，常用于表示并行传送的信息，如地址</li>
+<li>脉冲信号在时间上离散，常用于表示串行传送的信息，如时间</li>
+</ul>
+</li>
+<li><p>用数字信号表示信息的优点</p>
+<ul>
+<li>每个信号只有两种状态，物理上容易实现和存储</li>
+<li>抗干扰能力强</li>
+<li>数值的表示范围大，信息的表示类型广</li>
+<li>可以利用数字逻辑技术处理信息</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>冯诺依曼思想</p>
+<ul>
+<li>计算机由存储器、运算器、控制器、输入设备和输出设备组成</li>
+<li>采用二进制形式表示信息</li>
+<li>采用存储程序的工作方式</li>
+</ul>
+</li>
+</ol>
+<h2 id="计算机的主要性能指标"><a href="#计算机的主要性能指标" class="headerlink" title="计算机的主要性能指标"></a>计算机的主要性能指标</h2><ol>
+<li>字长：一般指参加一次定点运算的操作数的位数</li>
+<li>CPU<ul>
+<li>时钟频率（主频）&#x3D; 外频 * 倍频，表示每秒产生的时钟周期个数</li>
+<li>时钟周期：相邻两个脉冲的间隔</li>
+<li>IPS（instructions per second）：每秒执行的指令数</li>
+<li>FLOPS（float operations per second）：每秒完成的浮点运算次数</li>
+<li>CPI：每条指令的时钟周期数</li>
+</ul>
+</li>
+</ol>
+]]></content>
       <categories>
         <category>基础知识</category>
       </categories>
