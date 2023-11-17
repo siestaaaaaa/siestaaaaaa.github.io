@@ -64,11 +64,17 @@
 
 ]]></content>
       <categories>
-        <category>算法与数据结构</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
-        <tag>算法</tag>
+        <tag>排序</tag>
+        <tag>二分</tag>
+        <tag>高精度</tag>
+        <tag>前缀和</tag>
+        <tag>差分</tag>
+        <tag>位运算</tag>
+        <tag>去重</tag>
+        <tag>区间合并</tag>
       </tags>
   </entry>
   <entry>
@@ -76,11 +82,10 @@
     <url>/2023/11/17/%E5%9B%BE%E8%AE%BA%E6%9D%BF%E5%AD%90/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>算法与数据结构</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
-        <tag>算法</tag>
+        <tag>图论</tag>
       </tags>
   </entry>
   <entry>
@@ -124,11 +129,12 @@
 
 ]]></content>
       <categories>
-        <category>算法与数据结构</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
-        <tag>算法</tag>
+        <tag>KMP</tag>
+        <tag>字符串哈希</tag>
+        <tag>字典树</tag>
       </tags>
   </entry>
   <entry>
@@ -136,11 +142,10 @@
     <url>/2023/11/17/%E6%95%B0%E8%AE%BA%E6%9D%BF%E5%AD%90/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>算法与数据结构</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
-        <tag>算法</tag>
+        <tag>数论</tag>
       </tags>
   </entry>
   <entry>
@@ -187,11 +192,12 @@
 
 <h2 id="搜索"><a href="#搜索" class="headerlink" title="搜索"></a>搜索</h2>]]></content>
       <categories>
-        <category>算法与数据结构</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
-        <tag>算法</tag>
+        <tag>递归</tag>
+        <tag>搜索</tag>
+        <tag>回溯</tag>
       </tags>
   </entry>
   <entry>
@@ -240,11 +246,16 @@
 
 ]]></content>
       <categories>
-        <category>算法与数据结构</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
-        <tag>算法</tag>
+        <tag>单链表</tag>
+        <tag>双链表</tag>
+        <tag>单调栈</tag>
+        <tag>单调队列</tag>
+        <tag>并查集</tag>
+        <tag>堆</tag>
+        <tag>哈希表</tag>
       </tags>
   </entry>
 </search>
